@@ -1,0 +1,13 @@
+{
+    "name": "jamespole/cells",
+    "description": "Application for managing information about cellular sites.",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "James Anderson-Pole",
+            "email": "james@pole.net.nz"
+        }
+    ],
+    "require": {}
+}
